@@ -1,4 +1,5 @@
 src/p02/assets/*
+!src/p02/assets/.gitkeep
 
 ### IntelliJ IDEA ###
 out/
